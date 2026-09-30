@@ -1,0 +1,12 @@
+@model BookManagementMVC.Models.Book
+
+<h2>THÊM SÁCH</h2>
+
+<form asp-action="Create" method="post">
+<p>Tên sách: <input asp-for="Title"/></p>
+<p>Tác giả: <input asp-for="Author"/></p>
+<p>Giá: <input asp-for="Price"/></p>
+<p>Số lượng: <input asp-for="Quantity"/></p>
+<p>Thể loại: <input asp-for="Category"/></p>
+<button type="submit">Lưu</button>
+</form>
