@@ -1,0 +1,286 @@
+D:\fixBookmanagement\bin\Debug\net8.0\appsettings.json
+D:\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.staticwebassets.endpoints.json
+D:\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.exe
+D:\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.deps.json
+D:\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.runtimeconfig.json
+D:\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.dll
+D:\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.pdb
+D:\fixBookmanagement\bin\Debug\net8.0\Azure.Core.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Azure.Identity.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Humanizer.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\fixBookmanagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.ClientModel.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.CodeDom.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Memory.Data.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\fixBookmanagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.csproj.AssemblyReference.cache
+D:\fixBookmanagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.AssemblyInfoInputs.cache
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.AssemblyInfo.cs
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.csproj.CoreCompileInputs.cache
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.MvcApplicationPartsAssemblyInfo.cache
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.RazorAssemblyInfo.cache
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.RazorAssemblyInfo.cs
+D:\fixBookmanagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\fixBookmanagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\fixBookmanagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\fixBookmanagement\obj\Debug\net8.0\scopedcss\bundle\fixBookmanagement.styles.css
+D:\fixBookmanagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\fixBookmanagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\fixBookmanagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\fixBookmanagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\fixBookmanagement\obj\Debug\net8.0\swae.build.ex.cache
+D:\fixBookmanagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\fixBookmanagement\obj\Debug\net8.0\BookMana.FC2B68E3.Up2Date
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.dll
+D:\fixBookmanagement\obj\Debug\net8.0\refint\fixBookmanagement.dll
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.pdb
+D:\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.genruntimeconfig.cache
+D:\fixBookmanagement\obj\Debug\net8.0\ref\fixBookmanagement.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\appsettings.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.staticwebassets.endpoints.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.exe
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.deps.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.runtimeconfig.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fixBookmanagement.pdb
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Azure.Core.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Azure.Identity.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Humanizer.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.ClientModel.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.CodeDom.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Memory.Data.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.csproj.AssemblyReference.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.AssemblyInfoInputs.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.AssemblyInfo.cs
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.csproj.CoreCompileInputs.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.MvcApplicationPartsAssemblyInfo.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.RazorAssemblyInfo.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.RazorAssemblyInfo.cs
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\scopedcss\bundle\fixBookmanagement.styles.css
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\staticwebassets.build.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\staticwebassets.development.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\swae.build.ex.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookm.2079BB6E.Up2Date
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\refint\fixBookmanagement.dll
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.pdb
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\fixBookmanagement.genruntimeconfig.cache
+D:\CMC Uni\5 Ky Dong\WEB\ORM Entity Framework\bài đã sửa\fixBookmanagement_final\fixBookmanagement\obj\Debug\net8.0\ref\fixBookmanagement.dll

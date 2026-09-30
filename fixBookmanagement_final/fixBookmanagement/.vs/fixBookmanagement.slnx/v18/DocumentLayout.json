@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:views\\books\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:views\\books\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixbookmanagement_final\\fixbookmanagement\\database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{1E21B38F-66A2-B680-0111-6653C38EDECC}|fixBookmanagement.csproj|solutionrelative:database.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T04:31:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:31:32.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:31:30.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Details.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Details.cshtml",
+              "RelativeToolTip": "Views\\Books\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:31:28.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Edit.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Books\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:31:25.776Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:31:23.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:31:21.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-30T04:31:20.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "database.sql ",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\database.sql",
+              "RelativeDocumentMoniker": "database.sql",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\database.sql",
+              "RelativeToolTip": "database.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-30T04:30:25.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T04:30:20.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T04:30:19.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-30T04:17:07.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\b\u00E0i \u0111\u00E3 s\u1EEDa\\fixBookmanagement_final\\fixBookmanagement\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-30T04:13:36.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
