@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\",
+  "WorkspaceRootPath": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql_final\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql_final\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql_final\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql_final\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql_final\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql_final\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|d:\\cmc uni\\5 ky dong\\web\\orm entity framework\\bookmanagementmvc_postgresql_final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{869240C6-EE04-A9CC-7C11-FDADD88AD8B7}|BookManagementMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,35 +48,37 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Program.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Program.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T02:42:00.18Z"
+              "WhenOpened": "2026-09-30T02:42:00.18Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Data\\ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T02:41:58.35Z"
+              "WhenOpened": "2026-09-30T02:41:58.35Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BooksController.cs",
-              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Controllers\\BooksController.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Controllers\\BooksController.cs",
               "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
-              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Controllers\\BooksController.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Controllers\\BooksController.cs",
               "RelativeToolTip": "Controllers\\BooksController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAA7wCkAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAA7wCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-30T02:41:51.449Z",
               "EditorCaption": ""
@@ -85,49 +87,53 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Book.cs",
-              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Models\\Book.cs",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
-              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Models\\Book.cs",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-30T02:41:49.365Z"
+              "WhenOpened": "2026-09-30T02:41:49.365Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Views\\Books\\Index.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Views\\Books\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
-              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Views\\Books\\Index.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Views\\Books\\Index.cshtml",
               "RelativeToolTip": "Views\\Books\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-30T02:41:47.599Z"
+              "WhenOpened": "2026-09-30T02:41:47.599Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Views\\Books\\Create.cshtml",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Views\\Books\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
-              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\Views\\Books\\Create.cshtml",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\Views\\Books\\Create.cshtml",
               "RelativeToolTip": "Views\\Books\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-30T02:41:45.937Z"
+              "WhenOpened": "2026-09-30T02:41:45.937Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\appsettings.json",
+              "DocumentMoniker": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\appsettings.json",
+              "ToolTip": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-30T02:40:32.955Z"
+              "WhenOpened": "2026-09-30T02:40:32.955Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -1,0 +1,13 @@
+@model BookManagementMVC_PostgreSQL.Models.Book
+
+<h2>Sửa sách</h2>
+
+<form method="post">
+<input type="hidden" asp-for="Id"/>
+Tên sách: <input asp-for="Title"/><br/>
+Tác giả: <input asp-for="Author"/><br/>
+Giá: <input asp-for="Price"/><br/>
+Thể loại: <input asp-for="Category"/><br/>
+Năm: <input asp-for="PublishYear"/><br/>
+<button type="submit">Cập nhật</button>
+</form>

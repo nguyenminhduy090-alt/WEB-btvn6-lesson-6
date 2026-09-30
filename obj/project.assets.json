@@ -2306,11 +2306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\BookManagementMVC.csproj",
+      "projectUniqueName": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\BookManagementMVC.csproj",
       "projectName": "BookManagementMVC",
-      "projectPath": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\BookManagementMVC.csproj",
+      "projectPath": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\BookManagementMVC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL_Final\\obj\\",
+      "outputPath": "D:\\CMC Uni\\5 Ky Dong\\WEB\\ORM Entity Framework\\BookManagementMVC_PostgreSQL\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
